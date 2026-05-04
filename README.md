@@ -1,4 +1,4 @@
-# TEST DEVICES
+# Hardware_Validation
 
 ## About this project
 
